@@ -3,6 +3,9 @@
 
 This program is a Smart Livestock Inventory developed by Amirul Hakime, Syasya Irdina, Stacheareena Veeja, Alissa Kamelia and Siti Fatimah. It allows users to manage livestock data, including viewing the catalogue, selling livestock, managing livestock information, viewing sales reports, and calculating profits.
 
+![Menu](https://github.com/itsErul/smart-livestock-inventory/assets/162540611/8468f00a-f255-4475-a799-f8c8b0478595)
+
+
 
 ## Prerequisites
 
