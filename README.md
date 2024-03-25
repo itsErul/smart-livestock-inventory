@@ -1,5 +1,5 @@
 
-# Smart Livestock Inventory
+# Smart Livestock Inventory (Universiti Putra Malaysia)
 
 This program is a Smart Livestock Inventory developed by Amirul Hakime, Syasya Irdina, Stacheareena Veeja, Alissa Kamelia and Siti Fatimah. It allows users to manage livestock data, including viewing the catalogue, selling livestock, managing livestock information, viewing sales reports, and calculating profits.
 
