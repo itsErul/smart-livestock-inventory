@@ -1,0 +1,7 @@
+======= Sales Report =======
+Name                (RM)Price      Quantity  (RM)Total 
+Lembu               3000           5         15000     
+Kambing             2000           1         2000      
+Ayam                15             10        150       
+=============================
+Total Sales: RM17150
