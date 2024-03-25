@@ -1,3 +1,0 @@
-Lembu 3000 5
-Kambing 2000 1
-Ayam 15 10
